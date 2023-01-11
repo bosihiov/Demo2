@@ -6,6 +6,8 @@ public class Main {
 		
 		System.out.println("Git Hub");
 		
+		System.out.println("Git Hub Part 2: Electric Boogaloo");
+		
 	}
 
 }
